@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: mihail.tarasov7.yandex.ru.bear.s.den.Application
+
